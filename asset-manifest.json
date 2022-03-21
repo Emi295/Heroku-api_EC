@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Heroku-api_EC/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Heroku-api_EC/static/js/main.37a54d70.chunk.js",
+    "main.js.map": "/Heroku-api_EC/static/js/main.37a54d70.chunk.js.map",
+    "runtime-main.js": "/Heroku-api_EC/static/js/runtime-main.d25b0dce.js",
+    "runtime-main.js.map": "/Heroku-api_EC/static/js/runtime-main.d25b0dce.js.map",
+    "static/css/2.d9833976.chunk.css": "/Heroku-api_EC/static/css/2.d9833976.chunk.css",
+    "static/js/2.50941af8.chunk.js": "/Heroku-api_EC/static/js/2.50941af8.chunk.js",
+    "static/js/2.50941af8.chunk.js.map": "/Heroku-api_EC/static/js/2.50941af8.chunk.js.map",
+    "index.html": "/Heroku-api_EC/index.html",
+    "precache-manifest.a59a178d8b622bed6cd9b075e518b55a.js": "/Heroku-api_EC/precache-manifest.a59a178d8b622bed6cd9b075e518b55a.js",
+    "service-worker.js": "/Heroku-api_EC/service-worker.js",
+    "static/css/2.d9833976.chunk.css.map": "/Heroku-api_EC/static/css/2.d9833976.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Heroku-api_EC/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.50941af8.chunk.js.LICENSE.txt": "/Heroku-api_EC/static/js/2.50941af8.chunk.js.LICENSE.txt",
+    "static/media/primereact.min.css": "/Heroku-api_EC/static/media/line.567f5738.gif",
+    "static/media/theme.css": "/Heroku-api_EC/static/media/open-sans-v15-latin-regular.cffb686d.woff2",
+    "static/media/primeicons.css": "/Heroku-api_EC/static/media/primeicons.79432094.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d25b0dce.js",
+    "static/css/2.d9833976.chunk.css",
+    "static/js/2.50941af8.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.37a54d70.chunk.js"
+  ]
+}
