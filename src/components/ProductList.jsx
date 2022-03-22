@@ -38,7 +38,7 @@ const ProductList = () => {
         >
           <Column field="_id" header="Id" />
           <Column field="name" header="Nombre" />
-          <Column field="price" header="Precio" />
+          <Column field="prive" header="Precio" />
           <Column field="expiry_date" header="Fecha de Caducidad" />
         </DataTable>
       </Panel>
