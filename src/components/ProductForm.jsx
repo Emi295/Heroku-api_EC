@@ -19,7 +19,7 @@ const ProductForm = (props) => {
   const initialProductState = {
     _id: null,
     name: "",
-    price: 0,
+    prive: 0,
     expiry_date: null,
   };
 
@@ -91,8 +91,8 @@ const ProductForm = (props) => {
           <br />
           <div className="p-float-label">
             <InputNumber
-              value={productData.price}
-              onChange={(e) => updateField(e.target.value, "price")}
+              value={productData.prive}
+              onChange={(e) => updateField(e.target.value, "prive")}
               mode="currency"
               currency="USD"
             />
