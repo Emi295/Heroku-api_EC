@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "95a70de73bd0fccb65688339d05c366b",
+    "revision": "68b83fd9effa08253553f707ad15457f",
     "url": "/Heroku-api_EC/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Heroku-api_EC/static/css/2.d9833976.chunk.css"
   },
   {
-    "revision": "d62ee9ce586f15493a1b",
+    "revision": "2da21dff0332fe1ce8b9",
     "url": "/Heroku-api_EC/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Heroku-api_EC/static/js/2.50941af8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d62ee9ce586f15493a1b",
-    "url": "/Heroku-api_EC/static/js/main.37a54d70.chunk.js"
+    "revision": "2da21dff0332fe1ce8b9",
+    "url": "/Heroku-api_EC/static/js/main.537e9b16.chunk.js"
   },
   {
     "revision": "0b1bbc9ef661df04235d",

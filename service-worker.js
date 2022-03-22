@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Heroku-api_EC/precache-manifest.a59a178d8b622bed6cd9b075e518b55a.js"
+  "/Heroku-api_EC/precache-manifest.3d2d4bd8d54f168272e48f8a67550e7d.js"
 );
 
 self.addEventListener('message', (event) => {
